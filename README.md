@@ -6,6 +6,8 @@ In this project, we will build a data lake and an ETL Pipeline in Spark that loa
 
 ## Project Details:
 
+we will use EMR service to run Spark on AWS, load data from S3, Do our Analysis, and in the end load back the data to our S3 bucket
+
 ### 1)Read data from S3
 
 Song data: s3://udacity-dend/song_data
